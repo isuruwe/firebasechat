@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510032191967",
+    "firebase_url": "https://visitlanka-1bae8-default-rtdb.firebaseio.com",
+    "project_id": "visitlanka-1bae8",
+    "storage_bucket": "visitlanka-1bae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510032191967:android:94700dfa1ff67b8123e46a",
+        "android_client_info": {
+          "package_name": "icw.wsc.snw.taxim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510032191967-4ik59k3utotf9dbpkrngloldbqaqs5jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2QYocpImQLPQj6521KAfrOcggziCprI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510032191967-4ik59k3utotf9dbpkrngloldbqaqs5jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
